@@ -1,6 +1,6 @@
 # NeuroStartUp
 
-![](./logo.png)
+![](https://github.com/netology-ds-team/git-homeworks/blob/main/1_self/logo.png?raw=true)
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием 
  новейших технологий искусственного интеллекта.
@@ -19,9 +19,9 @@
 
 Ниже пример кода из нашего приложения:
 
-'''css
+```css
 .selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
 }
-'''
+```
